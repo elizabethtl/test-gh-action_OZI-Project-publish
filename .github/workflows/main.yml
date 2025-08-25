@@ -15,4 +15,4 @@ jobs:
           who-to-greet: 'Mona the Octocat'
 
       - name: Use OZI publish
-        uses: OZI-Project/publish@v1.13.2
+        uses: OZI-Project/publish@1.13.2
